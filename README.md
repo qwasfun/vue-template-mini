@@ -2,6 +2,8 @@
 
 Vue 3 template with minimal dependency
 
+[open in codesandbox](https://codesandbox.io/p/github/qwasfun/vue-template-mini/main)
+
 ## Project Setup
 
 ```sh
